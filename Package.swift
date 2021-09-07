@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "CocoaLumberjack",
     platforms: [
-        .iOS(.v9),
+        .iOS(.v12),
         .macOS(.v10_10),
         .watchOS(.v3),
         .tvOS(.v9),
